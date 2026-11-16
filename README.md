@@ -19,16 +19,16 @@ Welcome to my repository featuring hands-on Azure capstone implementations and m
 
 | Project Name | Category | Description & Implementation Highlights |
 | :--- | :--- | :--- |
-| [`Capstone-Project, Architecting a Well-Designed Architecture`](./Capstone-Project,%20Architecting%20a%20Well-Designed%20Architecture) | Cloud Architecture | Comprehensive end-to-end design implementing the Microsoft Azure Well-Architected Framework pillars. |
-| [`Capstone-Project, Optimizing My Azure Environment`](./Capstone-Project,%20Optimizing%20My%20Azure%20Environment) | Optimization | Auditing and refining cloud resources for performance, cost-efficiency, and security best practices. |
-| [`Mini-Project, Implementing Governance with Azure`](./Mini-Project,%20Implementing%20Governance%20with%20Azure) | Governance | Establishing management groups, subscriptions, and compliance guardrails. |
-| [`Mini-Project, Mastering Observability with Azure`](./Mini-Project,%20Observability) | Monitoring | Configuring Azure Monitor, Application Insights, and log analytics workspaces. |
-| [`Mini-Project, Building a Chatbot with Azure Bot`](./Mini-Project,%20Building%20a%20Chatbot%20with%20Azure%20Bot) | AI & PaaS | Deploying and configuring a conversational bot service on Azure infrastructure. |
-| [`Mini-Project, Enforcing Governance with Azure`](./Mini-Project,%20Enforcing%20Governance%20with%20Azure) | Compliance | Applying automated Azure Policy assignments and initiative definitions. |
-| [`Mini-Project, Exploring Azure Pricing Models`](./Mini-Project,%20Pricing%20Models) | Cost Optimization | Analyzing reserved instances, pay-as-you-go tiers, and workload cost projections. |
-| [`Mini-Project, Mastering Azure Cost Monitoring`](./Mini-Project,%20Cost%20Monitoring) | FinOps | Setting up budget alerts, cost anomaly detection, and granular cost allocation tags. |
-| [`Mini-Project, Proactive Azure Monitoring with Azure`](./Mini-Project,%20Monitoring) | Operations | Setting up health alerts, metric thresholds, and automated notification channels. |
-| [`Mini-Project, Securing Critical Resources with Azure`](./Mini-Project,%20Security) | Security | Hardening high-value assets using network security groups, firewalls, and access policies. |
+| **Capstone-Project: Architecting a Well-Designed Architecture** | Cloud Architecture | Comprehensive end-to-end design implementing the Microsoft Azure Well-Architected Framework pillars. |
+| **Capstone-Project: Optimizing My Azure Environment** | Optimization | Auditing and refining cloud resources for performance, cost-efficiency, and security best practices. |
+| **Mini-Project: Implementing Governance with Azure** | Governance | Establishing management groups, subscriptions, and compliance guardrails. |
+| **Mini-Project: Mastering Observability with Azure** | Monitoring | Configuring Azure Monitor, Application Insights, and log analytics workspaces. |
+| **Mini-Project: Building a Chatbot with Azure Bot** | AI & PaaS | Deploying and configuring a conversational bot service on Azure infrastructure. |
+| **Mini-Project: Enforcing Governance with Azure** | Compliance | Applying automated Azure Policy assignments and initiative definitions. |
+| **Mini-Project: Exploring Azure Pricing Models** | Cost Optimization | Analyzing reserved instances, pay-as-you-go tiers, and workload cost projections. |
+| **Mini-Project: Mastering Azure Cost Monitoring** | FinOps | Setting up budget alerts, cost anomaly detection, and granular cost allocation tags. |
+| **Mini-Project: Proactive Azure Monitoring with Azure** | Operations | Setting up health alerts, metric thresholds, and automated notification channels. |
+| **Mini-Project: Securing Critical Resources with Azure** | Security | Hardening high-value assets using network security groups, firewalls, and access policies. |
 
 ---
 
