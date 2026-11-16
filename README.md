@@ -33,9 +33,9 @@ Welcome to my repository featuring hands-on Azure capstone implementations and m
 ---
 
 ## 🛡️ Professional Credentials
-* **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
 * **Microsoft Certified: Security Operations Analyst Associate (SC-200)**
 * **Microsoft Certified: Azure Fundamentals (AZ-900)**
+* **Microsoft Certified: Power Platform Fundamentals (PL-900)**
 
 ---
 *Maintained by Kolawole Oladapo — Cloud & System Administrator*
